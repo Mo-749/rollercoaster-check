@@ -2,6 +2,7 @@ import lib_coasterimg as coasterimg
 import time
 import os
 
+# Rollercoaster-check script
 # Read check values
 file1 = open("rules/age.txt", "r")
 age_check = int(file1.read())
