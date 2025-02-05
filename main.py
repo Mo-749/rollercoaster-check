@@ -1,7 +1,7 @@
 import lib_coasterimg as coasterimg
 import time
 import os
-
+#test
 #een nieuwe regel
 # git commit -m "rollercoaster-check-Mo"
 # Read check values
