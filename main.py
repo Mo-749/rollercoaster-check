@@ -37,6 +37,7 @@ while running:
         print(coasterimg.sad())
         time.sleep(1)  # Pauze van 1 seconde in plaats van 2
 
-    result = input("Druk op Enter om nog een keer te checken, of X om te stoppen\n\n")
-    if(result.upper() == "X"):
+    result = input("Druk op Enter om nog een keer te checken, of Q om te stoppen\n\n")
+    if(result.upper() == "Q"):
         running = False
+
